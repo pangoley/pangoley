@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pangoley
-- 👀 I’m interested in web dev, coding, and cyber security.
+- 👀 I’m interested in web dev and coding.
 - 🌱 I’m currently learning the web dev and coding.
 - 💞️ I’m looking to collaborate on beginners projects.
 - 📫 How to reach me, inbox me here.
